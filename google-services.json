@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942777161689",
+    "project_id": "ecrommerce-app",
+    "storage_bucket": "ecrommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942777161689:android:c71495215354965b2babc8",
+        "android_client_info": {
+          "package_name": "com.tanvir.training.ecomadminbatch2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942777161689-vmbof7ppa0n7qhcdhahh2kcqqn69d72r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3r9MJY8yuC3YuAiDwTR1eERBw3WKnKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942777161689-vmbof7ppa0n7qhcdhahh2kcqqn69d72r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
